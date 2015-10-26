@@ -13,12 +13,8 @@
 	min-width: 947px;
 	position: relative;
 	overflow: hidden;
-	background: transparent url(../images/logo.png) repeat 0% 0%;
-	-webkit-transition: background-position 1s ease-out 0.3s;
-	-moz-transition: background-position 1s ease-out 0.3s;
-	-o-transition: background-position 1s ease-out 0.3s;
-	-ms-transition: background-position 1s ease-out 0.3s;
-	transition: background-position 1s ease-out 0.3s;
+	background: transparent url(../images/logo.png);
+
 }
 .da-slide{
 	position: absolute;
